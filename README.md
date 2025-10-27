@@ -8,7 +8,8 @@
 This project compares the stock performance of **Alibaba (BABA)** and **Amazon (AMZN)** from **2014 to 2025**, using daily stock data.  
 It explores how both companies performed in terms of **growth, volatility, correlation, and investor attractiveness**.
 
-Data was stored in **Microsoft SQL Server** and analyzed using **Python (Pandas, Matplotlib, Seaborn)**.
+Data is stored in **Microsoft SQL Server (MSSQL)** and queried into Python using **SQLAlchemy**, allowing a seamless connection between the database and Python environment.  
+This setup combines **SQL data management** with **Python-based analytics and visualization**, enabling a **full-stack data analysis workflow** — from data extraction to insight generation.
 
 ---
 
@@ -28,7 +29,7 @@ Data was stored in **Microsoft SQL Server** and analyzed using **Python (Pandas,
 
 | Source | Description |
 |:--|:--|
-| **Yahoo Finance** | Daily stock prices for Alibaba and Amazon. |
+| **Kaggle** | Daily stock prices for Alibaba and Amazon. |
 | **SQL Server** | Used for storing and querying data. |
 | **Python (Pandas)** | Used for cleaning, analysis, and visualization. |
 
@@ -68,8 +69,7 @@ Data was stored in **Microsoft SQL Server** and analyzed using **Python (Pandas,
 - **Alibaba’s** trading volume stays stable despite price movements.  
 - **Amazon** shows a mild tendency for lower trading when prices increase.  
 - Overall, **price and volume move mostly independently** for both companies.
-
-🖼️ **Add this plot here:**  
+ 
 (Scatter plot showing price vs. trading volume.)
 
 ![Price vs Volume](images/price_volume.png)
