@@ -183,7 +183,7 @@ Amazon has shown **stronger, consistent, and long-term growth**, while Alibaba�
 
 **Satelite Alison Ndayikunda**  
 📍 *Data Analyst | Growth-Minded Learner*  
-📧 [your.email@example.com]  
-🔗 [LinkedIn or GitHub Profile](www.linkedin.com/in/satelite-alison-ndayikunda)
+📧 [satalisonn@gmail.com]  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/satelite-alison-ndayikunda/)
 
 
