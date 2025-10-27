@@ -113,11 +113,6 @@ From **2014 to 2025**, **Amazon’s** stock shows steady long-term growth with a
 - **Amazon** and **Alibaba** operate in different economic and regulatory environments — the U.S. and China — which reduces direct price linkage.  
 - This weak correlation can **benefit portfolio diversification**, as holding both stocks reduces overall risk.
 
-🖼️ **Add this plot here:**  
-(Scatterplot of Amazon vs Alibaba daily returns.)
-
-![Correlation Scatterplot](images/correlation_scatter.png)
-
 ---
 ### 5️⃣ Which Company Has Shown Stronger Growth Overall Since 2014?
 
@@ -136,12 +131,6 @@ From **2014 to 2025**, **Amazon’s** stock shows steady long-term growth with a
 
 #### 🧩 Conclusion
 Amazon has shown **stronger, consistent, and long-term growth**, while Alibaba’s trajectory has been **more volatile** and influenced by external market and regulatory pressures.
-
-🖼️ **Add this plot here:**  
-(Bar chart comparing total growth or cumulative returns.)
-
-![Growth Comparison](images/growth_bar_chart.png)
-
 
 ---
 
@@ -179,7 +168,7 @@ Amazon has shown **stronger, consistent, and long-term growth**, while Alibaba�
 | **Data Storage** | Microsoft SQL Server |
 | **Data Analysis** | Python (Pandas, NumPy) |
 | **Visualization** | Matplotlib, Seaborn |
-| **Environment** | VS Code, Jupyter Notebook |
+| **Environment** | VS Code|
 
 ---
 
@@ -195,11 +184,6 @@ Amazon has shown **stronger, consistent, and long-term growth**, while Alibaba�
 **Satelite Alison Ndayikunda**  
 📍 *Data Analyst | Growth-Minded Learner*  
 📧 [your.email@example.com]  
-🔗 [LinkedIn or GitHub Profile](https://github.com/yourusername)
+🔗 [LinkedIn or GitHub Profile](www.linkedin.com/in/satelite-alison-ndayikunda)
 
----
-
-## 🖼️ Project Folder Structure
-
-To display the plots correctly in your README, place all graphs in a folder called `images/` inside your project directory.
 
