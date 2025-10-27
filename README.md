@@ -53,7 +53,7 @@ This setup combines **SQL data management** with **Python-based analytics and vi
 
 ---
 
-<summary><h2>📊 Exploratory Data Analysis (EDA)</h2></summary>
+<summary><h2> Exploratory Data Analysis (EDA)</h2></summary>
 
 ---
 
@@ -64,7 +64,7 @@ This setup combines **SQL data management** with **Python-based analytics and vi
 | **Alibaba** | -0.019 | Almost no correlation — price changes have little impact on trading volume. |
 | **Amazon** | -0.220 | Weak negative correlation — volume slightly decreases as price rises. |
 
-#### 🧩 Insights
+####  Insights
 - **Alibaba’s** trading volume stays stable despite price movements.  
 - **Amazon** shows a mild tendency for lower trading when prices increase.  
 - Overall, **price and volume move mostly independently** for both companies.
@@ -77,7 +77,7 @@ This setup combines **SQL data management** with **Python-based analytics and vi
 From **2014 to 2025**, **Amazon’s** stock shows steady long-term growth with a brief dip around **2020–2021** — likely caused by the **COVID-19 pandemic** — followed by a strong recovery.  
 **Alibaba**, on the other hand, peaked around the same period but **declined sharply afterward**, partly due to both pandemic impacts and **China’s regulatory pressures** on the tech sector.
 
-#### 🧩 Insights
+####  Insights
 - **Amazon**: Consistent growth and quick post-pandemic recovery.  
 - **Alibaba**: Strong pre-2021 performance but noticeable decline afterward.  
 - **Overall**: Amazon demonstrates more **resilience and stability**, while Alibaba remains **more volatile**.
@@ -93,7 +93,7 @@ From **2014 to 2025**, **Amazon’s** stock shows steady long-term growth with a
 | **Amazon** | **0.12** | **2.05** | Higher average return and lower volatility — more stable performance. |
 | **Alibaba** | **0.04** | **2.62** | Lower average return and higher volatility — riskier with larger price swings. |
 
-#### 🧩 Insights
+####  Insights
 - **Amazon** offers better daily returns with less price fluctuation, suggesting a **more consistent and stable stock**.  
 - **Alibaba** exhibits greater volatility, meaning **higher risk but potential for larger short-term gains**.  
 - Investors prioritizing stability and predictable growth would lean toward **Amazon**, while those open to higher risk may consider **Alibaba**.
@@ -108,7 +108,7 @@ From **2014 to 2025**, **Amazon’s** stock shows steady long-term growth with a
 |:--|:--:|
 | **Amazon vs Alibaba (Daily Returns)** | **0.35** |
 
-#### 🧩 Insights
+####  Insights
 - The **moderate positive correlation (0.35)** suggests that the two stocks occasionally move in the same direction but not consistently.  
 - **Amazon** and **Alibaba** operate in different economic and regulatory environments — the U.S. and China — which reduces direct price linkage.  
 - This weak correlation can **benefit portfolio diversification**, as holding both stocks reduces overall risk.
@@ -129,7 +129,7 @@ From **2014 to 2025**, **Amazon’s** stock shows steady long-term growth with a
 
 - **Alibaba** initially grew rapidly but faced setbacks after **China’s 2021 regulatory crackdown**, which restricted the tech sector and reduced market valuation.  
 
-#### 🧩 Conclusion
+####  Conclusion
 Amazon has shown **stronger, consistent, and long-term growth**, while Alibaba’s trajectory has been **more volatile** and influenced by external market and regulatory pressures.
 
 ---
