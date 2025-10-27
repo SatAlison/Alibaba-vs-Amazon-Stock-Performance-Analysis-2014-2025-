@@ -69,7 +69,6 @@ This setup combines **SQL data management** with **Python-based analytics and vi
 - **Amazon** shows a mild tendency for lower trading when prices increase.  
 - Overall, **price and volume move mostly independently** for both companies.
  
-(Scatter plot showing price vs. trading volume.)
 ![Price vs Volume](https://github.com/SatAlison/Alibaba-vs-Amazon-Stock-Performance-Analysis-2014-2025-/blob/390ce6f7c9bc8bcd85e16a133f5154c48ae2ab4c/Images/volume%20vs%20price.png)
 
 ---
@@ -83,10 +82,7 @@ From **2014 to 2025**, **Amazon’s** stock shows steady long-term growth with a
 - **Alibaba**: Strong pre-2021 performance but noticeable decline afterward.  
 - **Overall**: Amazon demonstrates more **resilience and stability**, while Alibaba remains **more volatile**.
 
-🖼️ **Add this plot here:**  
-(Line chart showing both companies’ adjusted close prices over time.)
-
-![Stock Price Trends](images/price_trends.png)
+![Stock Price Trends]([images/price_trends.png](https://github.com/SatAlison/Alibaba-vs-Amazon-Stock-Performance-Analysis-2014-2025-/blob/a00facacda570b49b5a85d8c6ecbde6d86494761/Images/stockpricetrendslineplot.png)
 
 ---
 
@@ -102,10 +98,7 @@ From **2014 to 2025**, **Amazon’s** stock shows steady long-term growth with a
 - **Alibaba** exhibits greater volatility, meaning **higher risk but potential for larger short-term gains**.  
 - Investors prioritizing stability and predictable growth would lean toward **Amazon**, while those open to higher risk may consider **Alibaba**.
 
-🖼️ **Add this plot here:**  
-(Histogram or boxplot comparing daily returns.)
-
-![Daily Returns Comparison](images/daily_returns_boxplot.png)
+![Daily Returns Comparison]([images/daily_returns_boxplot.png](https://github.com/SatAlison/Alibaba-vs-Amazon-Stock-Performance-Analysis-2014-2025-/blob/a00facacda570b49b5a85d8c6ecbde6d86494761/Images/boxplot(distribution%20of%20daily%20returns).png)
 
 ---
 
