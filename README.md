@@ -72,10 +72,9 @@ This setup combines **SQL data management** with **Python-based analytics and vi
  
 (Scatter plot showing price vs. trading volume.)
 
-![Price vs Volume](images/price_volume.png)
+![Price vs Volume][([images/price_volume.png](https://github.com/SatAlison/Alibaba-vs-Amazon-Stock-Performance-Analysis-2014-2025-/blob/390ce6f7c9bc8bcd85e16a133f5154c48ae2ab4c/Images/volume%20vs%20price.png)
 
 ---
-
 ### 2️⃣ How Have Their Stock Prices Evolved Over Time?
 
 From **2014 to 2025**, **Amazon’s** stock shows steady long-term growth with a brief dip around **2020–2021** — likely caused by the **COVID-19 pandemic** — followed by a strong recovery.  
