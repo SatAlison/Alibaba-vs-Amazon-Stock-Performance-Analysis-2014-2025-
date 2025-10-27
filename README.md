@@ -1,10 +1,10 @@
-<h1 align="center">📊 Alibaba vs Amazon Stock Performance Analysis (2014–2025)</h1>
+<h1 align="center"> Alibaba vs Amazon Stock Performance Analysis (2014–2025)</h1>
 
 <h3 align="center">by <strong>Satelite Alison Ndayikunda</strong></h3>
 
 ---
 
-## 🧭 Overview
+##  Overview
 This project compares the stock performance of **Alibaba (BABA)** and **Amazon (AMZN)** from **2014 to 2025**, using daily stock data.  
 It explores how both companies performed in terms of **growth, volatility, correlation, and investor attractiveness**.
 
@@ -13,7 +13,7 @@ This setup combines **SQL data management** with **Python-based analytics and vi
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 | # | Objective |
 |:-:|:--|
@@ -25,7 +25,7 @@ This setup combines **SQL data management** with **Python-based analytics and vi
 
 ---
 
-## 📂 Data Sources
+##  Data Sources
 
 | Source | Description |
 |:--|:--|
@@ -41,7 +41,7 @@ This setup combines **SQL data management** with **Python-based analytics and vi
 
 ---
 
-## 🧹 Data Preparation
+##  Data Preparation
 
 | Step | Action |
 |:--|:--|
@@ -121,7 +121,7 @@ From **2014 to 2025**, **Amazon’s** stock shows steady long-term growth with a
 | **Amazon** | **+1,290.6%** |
 | **Alibaba** | **+31.8%** |
 
-#### 📈 Insights
+####  Insights
 - **Amazon** demonstrated exceptional growth fueled by:
   - Global expansion and strong e-commerce dominance.  
   - Diversification into **AWS cloud services** and digital media.  
@@ -134,7 +134,7 @@ Amazon has shown **stronger, consistent, and long-term growth**, while Alibaba�
 
 ---
 
-## 💡 Key Insights
+##  Key Insights
 
 | # | Insight |
 |:-:|:--|
@@ -146,13 +146,13 @@ Amazon has shown **stronger, consistent, and long-term growth**, while Alibaba�
 
 ---
 
-## 🧾 Conclusion & Investment Advice
+##  Conclusion & Investment Advice
 
 - **Amazon** offers **stronger long-term growth** and **greater resilience**, making it suitable for investors seeking stability and consistent returns.  
 - **Alibaba** presents a **riskier but potentially undervalued** opportunity — it could rebound if China’s regulatory climate eases or global expansion accelerates.  
 - The **2021 regulatory crackdown** in China played a major role in slowing Alibaba’s growth momentum.  
 
-### 💼 Investor Summary
+###  Investor Summary
 
 | Investor Type | Recommended Stock | Reason |
 |:--|:--|:--|
@@ -161,7 +161,7 @@ Amazon has shown **stronger, consistent, and long-term growth**, while Alibaba�
 
 ---
 
-## 🧰 Tools & Technologies
+##  Tools & Technologies
 
 | Category | Tools |
 |:--|:--|
