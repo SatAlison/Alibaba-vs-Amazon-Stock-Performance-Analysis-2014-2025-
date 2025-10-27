@@ -53,7 +53,6 @@ This setup combines **SQL data management** with **Python-based analytics and vi
 
 ---
 
-<details>
 <summary><h2>📊 Exploratory Data Analysis (EDA)</h2></summary>
 
 ---
@@ -71,8 +70,7 @@ This setup combines **SQL data management** with **Python-based analytics and vi
 - Overall, **price and volume move mostly independently** for both companies.
  
 (Scatter plot showing price vs. trading volume.)
-
-![Price vs Volume][([images/price_volume.png](https://github.com/SatAlison/Alibaba-vs-Amazon-Stock-Performance-Analysis-2014-2025-/blob/390ce6f7c9bc8bcd85e16a133f5154c48ae2ab4c/Images/volume%20vs%20price.png)
+![Price vs Volume](https://github.com/SatAlison/Alibaba-vs-Amazon-Stock-Performance-Analysis-2014-2025-/blob/390ce6f7c9bc8bcd85e16a133f5154c48ae2ab4c/Images/volume%20vs%20price.png)
 
 ---
 ### 2️⃣ How Have Their Stock Prices Evolved Over Time?
