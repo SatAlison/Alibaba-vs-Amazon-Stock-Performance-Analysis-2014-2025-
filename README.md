@@ -11,6 +11,10 @@ It explores how both companies performed in terms of **growth, volatility, corre
 Data is stored in **Microsoft SQL Server (MSSQL)** and queried into Python using **SQLAlchemy**, allowing a seamless connection between the database and Python environment.  
 This setup combines **SQL data management** with **Python-based analytics and visualization**, enabling a **full-stack data analysis workflow** — from data extraction to insight generation.
 
+
+![Stock Price Trends](https://github.com/SatAlison/Alibaba-vs-Amazon-Stock-Performance-Analysis-2014-2025-/blob/a00facacda570b49b5a85d8c6ecbde6d86494761/Images/stockpricetrendslineplot.png)
+
+
 ---
 
 ##  Objectives
