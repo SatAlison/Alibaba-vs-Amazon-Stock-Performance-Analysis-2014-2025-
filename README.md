@@ -12,7 +12,7 @@ Data is stored in **Microsoft SQL Server (MSSQL)** and queried into Python using
 This setup combines **SQL data management** with **Python-based analytics and visualization**, enabling a **full-stack data analysis workflow** — from data extraction to insight generation.
 
 
-![Stock Dashboard](https://github.com/SatAlison/Alibaba-vs-Amazon-Stock-Performance-Analysis-2014-2025-/blob/a00facacda570b49b5a85d8c6ecbde6d86494761/Images/stockpricetrendslineplot.png)
+![Stock Dashboard](https://github.com/SatAlison/Alibaba-vs-Amazon-Stock-Performance-Analysis-2014-2025-/blob/main/Images/Screenshot%20(106).png)
 
 
 ---
